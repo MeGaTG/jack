@@ -28,7 +28,6 @@ _ =
     "get"
     "giphy"
     "github"
-    "music"
     "google"
     "greeting"
     "help"
