@@ -21,7 +21,7 @@ plugins_list = ->--Returns plugin list
   text ..= "
 Send `/help [plugin name]` for more info."
   text ..= "
-Or Send `/help all` to my private for all info."
+Or Send `/help all`to my private for all info."
   return text
 
 help_all = (target) ->--Returns all plugins info
